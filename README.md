@@ -71,5 +71,11 @@ https://vlink.cc/ecnh
 
 
 
+
+Explore, enabling eCNH to integrate with OpenCLAW to develop a silicon-based civilization world, labor, work, earn money, and so on.
+https://ai-ecnh.base44.app/Home
+
+探索，让eCNH结合openclaw发展硅基文明世界，劳动 工作赚钱，等等。
+
 https://github.com/eaco-group/openclaw-eCNH
 
