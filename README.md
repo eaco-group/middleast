@@ -69,3 +69,7 @@ https://vlink.cc/ecnh
 
 <img width="1280" height="1000" alt="eCNH三币经济模型2026 d67f00ea7bcaecf8f92eb76091bd6a01" src="https://github.com/user-attachments/assets/873d6240-466f-4236-aea8-abe5c542f31e" />
 
+
+
+https://github.com/eaco-group/openclaw-eCNH
+
