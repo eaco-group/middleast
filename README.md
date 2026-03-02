@@ -4,7 +4,7 @@ Earth & Global Humanity Builds and Shares eCNH Together
 <img width="1234" height="1033" alt="image ecnh 20260302 middle east market 202603" src="https://github.com/user-attachments/assets/2a1c0179-2f5c-4b1a-8d0f-05cfb77ae210" />
 
 
-# 项目编号: middleast20260302 eCNH Middle ease market 
+# 项目编号: middleast20260302 eCNH Middle east market 
 
 <img width="1146" height="931" alt="image ECNH middle east market 2026 " src="https://github.com/user-attachments/assets/28a011d8-00bc-4e85-bfa7-bbac0f446702" />
 
