@@ -42,3 +42,20 @@ pnpm run dev
 
 
 <img width="1083" height="563" alt="image eCNH 202603 LINKS" src="https://github.com/user-attachments/assets/e1d4fe87-4567-437b-a4b4-fed07653b078" />
+
+
+eCNH,
+
+earth CNH = eCNH = europe CNH,
+
+1 eCNH ≈ 0.1205 欧元euro ≈ 0.1353-0.1463 USD ≈ 1 CNH
+
+海外投资投机，外贸等，如何结合eCNH等化解各种海外投资风险？
+
+中东 非洲 eCNH发展方式可以有哪些？
+
+eCNH CA:
+
+7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://vlink.cc/ecnh
