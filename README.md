@@ -1,10 +1,15 @@
-# 
+# Middle East / Central Asia / africa eCNH Development Strategy
 
-项目编号: 7612456275981812022
+Earth & Global Humanity Builds and Shares eCNH Together
+<img width="1234" height="1033" alt="image ecnh 20260302 middle east market 202603" src="https://github.com/user-attachments/assets/2a1c0179-2f5c-4b1a-8d0f-05cfb77ae210" />
 
-本项目是由 [网站开发专家](https://space.coze.cn/) 创建.
 
-[**项目地址**](https://space.coze.cn/task/7612456275981812022)
+# 项目编号: middleast20260302 eCNH Middle ease market 
+
+<img width="1146" height="931" alt="image ECNH middle east market 2026 " src="https://github.com/user-attachments/assets/28a011d8-00bc-4e85-bfa7-bbac0f446702" />
+
+
+https://middleast.base44.app
 
 ## 本地开发
 
@@ -28,3 +33,12 @@ pnpm run dev
 ```
 
 - 在浏览器访问 http://localhost:3000
+
+<img width="1240" height="921" alt="image eCNH Middle east market web3 safe " src="https://github.com/user-attachments/assets/eb3ff8ce-0abb-4ddd-9958-4bb776dc539c" />
+
+
+<img width="1220" height="903" alt="image eCNH Middle east market web3 africa " src="https://github.com/user-attachments/assets/385b7782-af53-40df-80c5-3059eaad655b" />
+
+
+
+<img width="1083" height="563" alt="image eCNH 202603 LINKS" src="https://github.com/user-attachments/assets/e1d4fe87-4567-437b-a4b4-fed07653b078" />
